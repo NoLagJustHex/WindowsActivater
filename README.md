@@ -1,10 +1,5 @@
 # **How it works**
 
-At first, you should press **WIN + R**, and type ***Winver*** to see what your windows 10 verison is. 
-After you've done that, you can open the file with your version name. 
-
-# **For example**
-
 _Press **WIN+R** and type **winver**._
 
 ![Beispiel](https://cdn.discordapp.com/attachments/879718659411546152/983010098723033098/unknown.png "Beispielbild1")
